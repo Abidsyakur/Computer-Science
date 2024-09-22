@@ -1,139 +1,139 @@
 # Computer Science Curriculum
 
-This repository contains a structured curriculum for a **Computer Science** course. The curriculum is designed to cover fundamental and advanced topics in computer science across six semesters.
+This repository contains a structured curriculum for a **Computer Science** course. The curriculum is designed to cover fundamental and advanced topics in computer science over six semesters.
 
 ---
 
-## Semester 1: **Dasar-Dasar Ilmu Komputer**
-1. **Pengantar Ilmu Komputer**
-   - Sejarah Ilmu Komputer
-   - Evolusi Teknologi
-   - Sub-bidang dalam Ilmu Komputer
+## Semester 1: **Fundamentals of Computer Science**
+1. **Introduction to Computer Science**
+   - History of Computer Science
+   - Evolution of Technology
+   - Subfields in Computer Science
    
-2. **Pemrograman Dasar**
-   - Pengantar Algoritma dan Struktur Data
-   - Dasar-dasar Pemrograman (Bahasa: Python atau C++)
-   - Pemrograman Berorientasi Objek (OOP)
+2. **Basic Programming**
+   - Introduction to Algorithms and Data Structures
+   - Fundamentals of Programming (Languages: Python or C++)
+   - Object-Oriented Programming (OOP)
    
-3. **Sistem Operasi Dasar**
-   - Arsitektur Komputer
-   - Pengelolaan Memori dan Proses
-   - Sistem Berkas (File System)
+3. **Basic Operating Systems**
+   - Computer Architecture
+   - Memory and Process Management
+   - File Systems
 
-4. **Matematika Diskrit**
-   - Logika Matematika
-   - Teori Himpunan
-   - Graf dan Kombinatorika
+4. **Discrete Mathematics**
+   - Mathematical Logic
+   - Set Theory
+   - Graphs and Combinatorics
 
 ---
 
-## Semester 2: **Struktur Data dan Algoritma**
-1. **Struktur Data Lanjut**
-   - Array, Linked List, Stack, Queue, dan Graph
-   - Hashing dan Pemetaan
-   - Trees dan Binary Trees
+## Semester 2: **Data Structures and Algorithms**
+1. **Advanced Data Structures**
+   - Arrays, Linked Lists, Stacks, Queues, and Graphs
+   - Hashing and Mapping
+   - Trees and Binary Trees
 
-2. **Algoritma dan Analisis**
-   - Konsep Kompleksitas Waktu dan Ruang
-   - Algoritma Sorting (Merge Sort, Quick Sort, dll.)
+2. **Algorithms and Analysis**
+   - Time and Space Complexity Concepts
+   - Sorting Algorithms (Merge Sort, Quick Sort, etc.)
    - Dynamic Programming
    
-3. **Pengantar Basis Data**
-   - Model Relasional
-   - SQL dan Normalisasi Basis Data
-   - Perancangan Basis Data
+3. **Introduction to Databases**
+   - Relational Model
+   - SQL and Database Normalization
+   - Database Design
 
-4. **Pengantar Jaringan Komputer**
-   - Arsitektur Jaringan
-   - Protokol Jaringan (TCP/IP)
-   - Pengantar Keamanan Jaringan
+4. **Introduction to Computer Networks**
+   - Network Architecture
+   - Networking Protocols (TCP/IP)
+   - Introduction to Network Security
 
 ---
 
-## Semester 3: **Sistem dan Arsitektur Komputer**
-1. **Arsitektur Komputer**
-   - Set Instruksi Mesin
-   - Pipeline dan Pemrosesan Paralel
-   - Unit Pengendalian dan Prosesor
+## Semester 3: **Computer Systems and Architecture**
+1. **Computer Architecture**
+   - Machine Instruction Set
+   - Pipelining and Parallel Processing
+   - Control Units and Processors
 
-2. **Teori Komputasi**
-   - Automata dan Formal Language
-   - Mesin Turing
-   - Kompleksitas Komputasi
+2. **Theory of Computation**
+   - Automata and Formal Languages
+   - Turing Machines
+   - Computational Complexity
 
-3. **Sistem Operasi Lanjut**
-   - Multithreading dan Sinkronisasi
-   - Penjadwalan CPU
-   - Virtualisasi dan Sistem Terdistribusi
+3. **Advanced Operating Systems**
+   - Multithreading and Synchronization
+   - CPU Scheduling
+   - Virtualization and Distributed Systems
 
-4. **Pemrograman Web**
-   - HTML, CSS, dan JavaScript
+4. **Web Programming**
+   - HTML, CSS, and JavaScript
    - Frontend Frameworks (React, Angular, Vue.js)
    - Backend (Node.js, Express.js)
 
 ---
 
-## Semester 4: **Pengembangan Aplikasi dan Kecerdasan Buatan**
-1. **Rekayasa Perangkat Lunak**
-   - Siklus Hidup Pengembangan Software
-   - Agile dan Scrum Methodology
-   - Pengujian dan Pemeliharaan Software
+## Semester 4: **Application Development and Artificial Intelligence**
+1. **Software Engineering**
+   - Software Development Lifecycle
+   - Agile and Scrum Methodologies
+   - Software Testing and Maintenance
    
-2. **Pemrograman Mobile**
-   - Android atau iOS Development
-   - Desain Antarmuka Pengguna (UI/UX)
-   - Pengembangan Aplikasi Berbasis Hybrid
+2. **Mobile Programming**
+   - Android or iOS Development
+   - User Interface Design (UI/UX)
+   - Hybrid Application Development
 
-3. **Kecerdasan Buatan (AI)**
-   - Algoritma Machine Learning
-   - Pengantar Pembelajaran Mendalam (Deep Learning)
-   - Pengolahan Data dan Analitik
+3. **Artificial Intelligence (AI)**
+   - Machine Learning Algorithms
+   - Introduction to Deep Learning
+   - Data Processing and Analytics
 
-4. **Pengantar Keamanan Siber**
-   - Enkripsi dan Kriptografi
-   - Keamanan Web
-   - Pemulihan dan Deteksi Serangan
+4. **Introduction to Cybersecurity**
+   - Encryption and Cryptography
+   - Web Security
+   - Attack Detection and Recovery
 
 ---
 
-## Semester 5: **Sistem Tersebar dan Teknologi Lanjutan**
-1. **Sistem Tersebar**
-   - Model Komputasi Terdistribusi
-   - Komputasi Awan (Cloud Computing)
+## Semester 5: **Distributed Systems and Advanced Technologies**
+1. **Distributed Systems**
+   - Distributed Computing Models
+   - Cloud Computing
    - Blockchain
 
-2. **Big Data dan Pengolahan Data**
-   - Arsitektur Big Data
-   - Teknologi Hadoop dan Spark
-   - Pengolahan Data dalam Skala Besar
+2. **Big Data and Data Processing**
+   - Big Data Architecture
+   - Hadoop and Spark Technologies
+   - Large-Scale Data Processing
 
-3. **IoT (Internet of Things)**
-   - Perangkat dan Sensor
-   - Protokol Komunikasi IoT
-   - Implementasi Proyek IoT
+3. **Internet of Things (IoT)**
+   - Devices and Sensors
+   - IoT Communication Protocols
+   - IoT Project Implementation
 
-4. **Pembelajaran Mesin**
-   - Model Prediktif
-   - Klasifikasi dan Klustering
-   - Teknik Evaluasi Model
+4. **Machine Learning**
+   - Predictive Models
+   - Classification and Clustering
+   - Model Evaluation Techniques
 
 ---
 
-## Semester 6: **Proyek Akhir dan Spesialisasi**
-1. **Proyek Akhir**
-   - Desain Proyek
-   - Pengembangan Aplikasi atau Penelitian
-   - Presentasi dan Publikasi Hasil
+## Semester 6: **Capstone Project and Specialization**
+1. **Capstone Project**
+   - Project Design
+   - Application Development or Research
+   - Presentation and Publication of Results
 
-2. **Spesialisasi (Pilihan)**
-   - Keamanan Siber Lanjut
-   - Pengembangan Game
-   - Kecerdasan Buatan Lanjut
-   - Robotika
+2. **Specialization (Electives)**
+   - Advanced Cybersecurity
+   - Game Development
+   - Advanced Artificial Intelligence
+   - Robotics
 
-3. **Magang/Praktikum Kerja**
-   - Magang di perusahaan IT atau startup
-   - Kolaborasi dengan industri untuk proyek riil
+3. **Internship/Work Practicum**
+   - Internship at IT companies or startups
+   - Collaboration with industry for real-world projects
 
 ---
 
